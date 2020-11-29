@@ -1,2 +1,2 @@
-# React-H20-Component2
+# React-H20-Component1
 Created with CodeSandbox
